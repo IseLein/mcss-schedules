@@ -1,0 +1,685 @@
+{
+    "CSC108H5": [
+        {
+            "day": 1,
+            "time": 9,
+            "lecture": "CSC108H5 LEC0102"
+        },
+        {
+            "day": 3,
+            "time": 9,
+            "lecture": "CSC108H5 LEC0102"
+        },
+        {
+            "day": 5,
+            "time": 9,
+            "lecture": "CSC108H5 LEC0102"
+        },
+        {
+            "day": 4,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0102"
+        },
+        {
+            "day": 4,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0102"
+        },
+        {
+            "day": 1,
+            "time": 8,
+            "lecture": "CSC108H5 LEC0101"
+        },
+        {
+            "day": 2,
+            "time": 8,
+            "lecture": "CSC108H5 LEC0101"
+        },
+        {
+            "day": 3,
+            "time": 8,
+            "lecture": "CSC108H5 LEC0101"
+        },
+        {
+            "day": 4,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0101"
+        },
+        {
+            "day": 4,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0101"
+        },
+        {
+            "day": 1,
+            "time": 11,
+            "lecture": "CSC108H5 LEC0104"
+        },
+        {
+            "day": 3,
+            "time": 11,
+            "lecture": "CSC108H5 LEC0104"
+        },
+        {
+            "day": 5,
+            "time": 11,
+            "lecture": "CSC108H5 LEC0104"
+        },
+        {
+            "day": 4,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0104"
+        },
+        {
+            "day": 4,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0104"
+        },
+        {
+            "day": 1,
+            "time": 10,
+            "lecture": "CSC108H5 LEC0103"
+        },
+        {
+            "day": 3,
+            "time": 10,
+            "lecture": "CSC108H5 LEC0103"
+        },
+        {
+            "day": 5,
+            "time": 10,
+            "lecture": "CSC108H5 LEC0103"
+        },
+        {
+            "day": 4,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0103"
+        },
+        {
+            "day": 4,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0103"
+        },
+        {
+            "day": 1,
+            "time": 13,
+            "lecture": "CSC108H5 LEC0106"
+        },
+        {
+            "day": 1,
+            "time": 14,
+            "lecture": "CSC108H5 LEC0106"
+        },
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "CSC108H5 LEC0106"
+        },
+        {
+            "day": 4,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0106"
+        },
+        {
+            "day": 4,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0106"
+        },
+        {
+            "day": 1,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0107"
+        },
+        {
+            "day": 1,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0107"
+        },
+        {
+            "day": 1,
+            "time": 21,
+            "lecture": "CSC108H5 LEC0107"
+        },
+        {
+            "day": 4,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0107"
+        },
+        {
+            "day": 4,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0107"
+        },
+        {
+            "day": 3,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0108"
+        },
+        {
+            "day": 3,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0108"
+        },
+        {
+            "day": 3,
+            "time": 21,
+            "lecture": "CSC108H5 LEC0108"
+        },
+        {
+            "day": 4,
+            "time": 19,
+            "lecture": "CSC108H5 LEC0108"
+        },
+        {
+            "day": 4,
+            "time": 20,
+            "lecture": "CSC108H5 LEC0108"
+        }
+    ],
+    "MAT137H5": [
+        {
+            "day": 2,
+            "time": 13,
+            "lecture": "MAT137H5 LEC0101"
+        },
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "MAT137H5 LEC0101"
+        },
+        {
+            "day": 4,
+            "time": 16,
+            "lecture": "MAT137H5 LEC0101"
+        },
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "MAT137H5 LEC0101"
+        },
+        {
+            "day": 5,
+            "time": 16,
+            "lecture": "MAT137H5 LEC0101"
+        },
+        {
+            "day": 2,
+            "time": 10,
+            "lecture": "MAT137H5 LEC0102"
+        },
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "MAT137H5 LEC0102"
+        },
+        {
+            "day": 5,
+            "time": 16,
+            "lecture": "MAT137H5 LEC0102"
+        },
+        {
+            "day": 4,
+            "time": 11,
+            "lecture": "MAT137H5 LEC0102"
+        },
+        {
+            "day": 4,
+            "time": 12,
+            "lecture": "MAT137H5 LEC0102"
+        }
+    ],
+    "MAT135H5": [
+        {
+            "day": 3,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0102"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0102"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0102"
+        },
+        {
+            "day": 5,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0102"
+        },
+        {
+            "day": 5,
+            "time": 10,
+            "lecture": "MAT135H5 LEC0102"
+        },
+        {
+            "day": 1,
+            "time": 11,
+            "lecture": "MAT135H5 LEC0103"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0103"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0103"
+        },
+        {
+            "day": 5,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0103"
+        },
+        {
+            "day": 5,
+            "time": 10,
+            "lecture": "MAT135H5 LEC0103"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0113"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0113"
+        },
+        {
+            "day": 3,
+            "time": 14,
+            "lecture": "MAT135H5 LEC0113"
+        },
+        {
+            "day": 5,
+            "time": 11,
+            "lecture": "MAT135H5 LEC0113"
+        },
+        {
+            "day": 5,
+            "time": 12,
+            "lecture": "MAT135H5 LEC0113"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0112"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0112"
+        },
+        {
+            "day": 2,
+            "time": 15,
+            "lecture": "MAT135H5 LEC0112"
+        },
+        {
+            "day": 2,
+            "time": 16,
+            "lecture": "MAT135H5 LEC0112"
+        },
+        {
+            "day": 5,
+            "time": 13,
+            "lecture": "MAT135H5 LEC0112"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0101"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0101"
+        },
+        {
+            "day": 3,
+            "time": 11,
+            "lecture": "MAT135H5 LEC0101"
+        },
+        {
+            "day": 5,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0101"
+        },
+        {
+            "day": 5,
+            "time": 10,
+            "lecture": "MAT135H5 LEC0101"
+        },
+        {
+            "day": 4,
+            "time": 15,
+            "lecture": "MAT135H5 LEC0111"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0111"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0111"
+        },
+        {
+            "day": 2,
+            "time": 13,
+            "lecture": "MAT135H5 LEC0111"
+        },
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "MAT135H5 LEC0111"
+        },
+        {
+            "day": 5,
+            "time": 13,
+            "lecture": "MAT135H5 LEC0105"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0105"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0105"
+        },
+        {
+            "day": 4,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0105"
+        },
+        {
+            "day": 4,
+            "time": 10,
+            "lecture": "MAT135H5 LEC0105"
+        },
+        {
+            "day": 2,
+            "time": 12,
+            "lecture": "MAT135H5 LEC0104"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0104"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0104"
+        },
+        {
+            "day": 4,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0104"
+        },
+        {
+            "day": 4,
+            "time": 10,
+            "lecture": "MAT135H5 LEC0104"
+        },
+        {
+            "day": 2,
+            "time": 11,
+            "lecture": "MAT135H5 LEC0109"
+        },
+        {
+            "day": 2,
+            "time": 12,
+            "lecture": "MAT135H5 LEC0109"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0109"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0109"
+        },
+        {
+            "day": 4,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0109"
+        },
+        {
+            "day": 2,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0107"
+        },
+        {
+            "day": 2,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0107"
+        },
+        {
+            "day": 4,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0107"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0107"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0107"
+        },
+        {
+            "day": 2,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0108"
+        },
+        {
+            "day": 2,
+            "time": 10,
+            "lecture": "MAT135H5 LEC0108"
+        },
+        {
+            "day": 4,
+            "time": 9,
+            "lecture": "MAT135H5 LEC0108"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT135H5 LEC0108"
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT135H5 LEC0108"
+        }
+    ],
+    "MAT102H5": [
+        {
+            "day": 2,
+            "time": 19,
+            "lecture": "MAT102H5 LEC0101"
+        },
+        {
+            "day": 2,
+            "time": 20,
+            "lecture": "MAT102H5 LEC0101"
+        },
+        {
+            "day": 1,
+            "time": 9,
+            "lecture": "MAT102H5 LEC0101"
+        },
+        {
+            "day": 3,
+            "time": 9,
+            "lecture": "MAT102H5 LEC0101"
+        },
+        {
+            "day": 3,
+            "time": 10,
+            "lecture": "MAT102H5 LEC0101"
+        },
+        {
+            "day": 2,
+            "time": 13,
+            "lecture": "MAT102H5 LEC0105"
+        },
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "MAT102H5 LEC0105"
+        },
+        {
+            "day": 2,
+            "time": 19,
+            "lecture": "MAT102H5 LEC0105"
+        },
+        {
+            "day": 2,
+            "time": 20,
+            "lecture": "MAT102H5 LEC0105"
+        },
+        {
+            "day": 4,
+            "time": 13,
+            "lecture": "MAT102H5 LEC0105"
+        },
+        {
+            "day": 2,
+            "time": 19,
+            "lecture": "MAT102H5 LEC0108"
+        },
+        {
+            "day": 2,
+            "time": 20,
+            "lecture": "MAT102H5 LEC0108"
+        },
+        {
+            "day": 5,
+            "time": 9,
+            "lecture": "MAT102H5 LEC0108"
+        },
+        {
+            "day": 5,
+            "time": 10,
+            "lecture": "MAT102H5 LEC0108"
+        },
+        {
+            "day": 3,
+            "time": 16,
+            "lecture": "MAT102H5 LEC0108"
+        },
+        {
+            "day": 2,
+            "time": 19,
+            "lecture": "MAT102H5 LEC0109"
+        },
+        {
+            "day": 2,
+            "time": 20,
+            "lecture": "MAT102H5 LEC0109"
+        },
+        {
+            "day": 4,
+            "time": 11,
+            "lecture": "MAT102H5 LEC0109"
+        },
+        {
+            "day": 4,
+            "time": 12,
+            "lecture": "MAT102H5 LEC0109"
+        },
+        {
+            "day": 2,
+            "time": 13,
+            "lecture": "MAT102H5 LEC0109"
+        },
+        {
+            "day": 1,
+            "time": 11,
+            "lecture": "MAT102H5 LEC0102"
+        },
+        {
+            "day": 3,
+            "time": 16,
+            "lecture": "MAT102H5 LEC0102"
+        },
+        {
+            "day": 3,
+            "time": 17,
+            "lecture": "MAT102H5 LEC0102"
+        },
+        {
+            "day": 2,
+            "time": 19,
+            "lecture": "MAT102H5 LEC0102"
+        },
+        {
+            "day": 2,
+            "time": 20,
+            "lecture": "MAT102H5 LEC0102"
+        },
+        {
+            "day": 3,
+            "time": 11,
+            "lecture": "MAT102H5 LEC0107"
+        },
+        {
+            "day": 2,
+            "time": 19,
+            "lecture": "MAT102H5 LEC0107"
+        },
+        {
+            "day": 2,
+            "time": 20,
+            "lecture": "MAT102H5 LEC0107"
+        },
+        {
+            "day": 5,
+            "time": 11,
+            "lecture": "MAT102H5 LEC0107"
+        },
+        {
+            "day": 5,
+            "time": 12,
+            "lecture": "MAT102H5 LEC0107"
+        },
+        {
+            "day": 2,
+            "time": 15,
+            "lecture": "MAT102H5 LEC0106"
+        },
+        {
+            "day": 2,
+            "time": 16,
+            "lecture": "MAT102H5 LEC0106"
+        },
+        {
+            "day": 2,
+            "time": 19,
+            "lecture": "MAT102H5 LEC0106"
+        },
+        {
+            "day": 2,
+            "time": 20,
+            "lecture": "MAT102H5 LEC0106"
+        },
+        {
+            "day": 4,
+            "time": 12,
+            "lecture": "MAT102H5 LEC0106"
+        }
+    ]
+}

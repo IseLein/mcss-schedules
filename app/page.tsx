@@ -1,101 +1,137 @@
-import Image from "next/image";
+"use client";
+import { useState } from 'react';
+import raw_time_data from './courses.json';
+
+const DAYS = [1, 2, 3, 4, 5];
+const HOURS = [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
+const COURSES = [
+  'CSC108H5',
+  'MAT102H5',
+  'MAT135H5',
+  'MAT137H5',
+];
+
+type CalendarTime = {
+  day: number;
+  time: number;
+  lecture: string;
+};
+
+type TimeData = {
+  [key: typeof COURSES[number]]: CalendarTime[];
+};
+
+const time_data = raw_time_data as TimeData;
+
+type CalendarProps = {
+  selectedCourses: typeof COURSES[number][];
+};
+
+function Calendar({ selectedCourses }: CalendarProps) {
+  console.log(selectedCourses);
+  const calendarData = selectedCourses.map(course => time_data[course]).reduce(
+    (acc, curr) => [...acc, ...curr], []
+  );
+
+  const getLecs = (day: number, time: number) => {
+    return calendarData.filter(course => course.time === time && course.day === day)
+      .map(course => course.lecture)
+      .reduce((acc, curr) => acc.concat('\n', curr), '');
+  };
+
+  return (
+    <table className="w-full table-fixed border">
+      <colgroup>
+        <col className="w-[10%]" />
+        <col className="w-[18%]" />
+        <col className="w-[18%]" />
+        <col className="w-[18%]" />
+        <col className="w-[18%]" />
+        <col className="w-[18%]" />
+      </colgroup>
+      <tbody>
+        <tr>
+          <th className="border"></th>
+          <th className="border">Monday</th>
+          <th className="border">Tuesday</th>
+          <th className="border">Wednesday</th>
+          <th className="border">Thursday</th>
+          <th className="border">Friday</th>
+        </tr>
+        {HOURS.map((hour) => (
+          <tr key={hour}>
+            <td className="border text-center h-12">{hour}:00</td>
+            {DAYS.map((day) => {
+              const lecs = getLecs(day, hour);
+              if (lecs == '') {
+                return <td key={day} className="border text-center h-12"></td>
+              } else {
+                return <td key={day} className="border text-center h-12 bg-orange-300">{lecs}</td>
+              }
+            })}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  );
+}
+
+type SelectCoursesProps = {
+  onCourseSelect: (course: typeof COURSES[number]) => void;
+  onCourseDeselect: (course: typeof COURSES[number]) => void;
+}
+
+function SelectCourses({ onCourseSelect, onCourseDeselect }: SelectCoursesProps) {
+  const handleClicked = (e: React.MouseEvent<HTMLInputElement>) => {
+    console.log((e.target as HTMLInputElement).value);
+    const course = (e.target as HTMLInputElement).value;
+    if ((e.target as HTMLInputElement).checked) {
+      onCourseSelect(course);
+    } else {
+      onCourseDeselect(course);
+    }
+  }
+  return (
+    <div>
+      <div>
+        <label htmlFor={'first'}>
+          <input type="checkbox" id={'1'} name={'first'} value={'first'} disabled />
+          First Year
+        </label>
+      </div>
+      {COURSES.map((course) => (
+        <div key={course} className="ml-16">
+          <label htmlFor={course}>
+            <input type="checkbox" id={course} name={course} value={course} onClick={handleClicked} />
+            {course}
+          </label>
+        </div>
+      ))}
+    </div>
+  );
+}
 
 export default function Home() {
-  return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+  const [selectedCourses, setSelectedCourses] = useState<typeof COURSES[number][]>([]);
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+  const onCourseSelect = (course: typeof COURSES[number]) => {
+    setSelectedCourses([...selectedCourses, course]);
+  }
+  const onCourseDeselect = (course: typeof COURSES[number]) => {
+    setSelectedCourses((prev) => prev.filter(item => item !== course));
+  }
+
+
+  return (
+    <div className="p-4 flex flex-direction-row">
+      <div className="w-[70%]">
+        <h2 className="text-xl font-bold">Calendar</h2>
+        <Calendar selectedCourses={selectedCourses} />
+      </div>
+      <div className="p-4 flex-grow">
+        <h2 className="text-xl font-bold">Select Courses</h2>
+        <SelectCourses onCourseSelect={onCourseSelect} onCourseDeselect={onCourseDeselect} />
+      </div>
     </div>
   );
 }
