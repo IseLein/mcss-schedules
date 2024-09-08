@@ -1,0 +1,47 @@
+{
+    "CSC108H5": {
+        "start": 19,
+        "end": 21,
+        "day": 4
+    },
+    "MAT102H5": {
+        "start": 19,
+        "end": 21,
+        "day": 2
+    },
+    "MAT135H5": {
+        "start": 17,
+        "end": 19,
+        "day": 5
+    },
+    "MAT137H5": {
+        "start": 15,
+        "end": 17,
+        "day": 5
+    },
+    "CSC258H5": {
+        "start": 19,
+        "end": 21,
+        "day": 1
+    },
+    "MAT223H5": {
+        "start": 18,
+        "end": 20,
+        "day": 4
+    },
+    "MAT232H5": {
+        "start": 18,
+        "end": 20,
+        "day": 4
+    },
+    "STA256H5": {
+        "start": 10,
+        "end": 12,
+        "day": 6
+    },
+    "STA258H5": {
+        "start": 10,
+        "end": 12,
+        "day": 6
+    }
+}
