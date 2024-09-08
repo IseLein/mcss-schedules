@@ -138,7 +138,7 @@ function SelectCourses({ setSelectedCourses }: SelectCoursesProps) {
         }
       });
       setSelectedCourses((prev: typeof COURSES[number][]) => {
-        let newCourses = [...prev];
+        const newCourses = [...prev];
         courses.forEach(course => {
           if (!newCourses.includes(course)) {
             newCourses.push(course);
