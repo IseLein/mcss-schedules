@@ -1,216 +1,275 @@
 {
-    "CSC108H5": [
-        {
-            "day": 3,
-            "time": 19,
-            "lecture": "CSC108H5 LEC0108"
-        },
-        {
-            "day": 3,
-            "time": 20,
-            "lecture": "CSC108H5 LEC0108"
-        },
-        {
-            "day": 3,
-            "time": 21,
-            "lecture": "CSC108H5 LEC0108"
-        },
-        {
-            "day": 4,
-            "time": 19,
-            "lecture": "CSC108H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 4,
-            "time": 20,
-            "lecture": "CSC108H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 1,
-            "time": 8,
-            "lecture": "CSC108H5 LEC0101"
-        },
-        {
-            "day": 2,
-            "time": 8,
-            "lecture": "CSC108H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 8,
-            "lecture": "CSC108H5 LEC0101"
-        },
-        {
-            "day": 1,
-            "time": 11,
-            "lecture": "CSC108H5 LEC0104"
-        },
-        {
-            "day": 3,
-            "time": 11,
-            "lecture": "CSC108H5 LEC0104"
-        },
-        {
-            "day": 5,
-            "time": 11,
-            "lecture": "CSC108H5 LEC0104"
-        },
-        {
-            "day": 1,
-            "time": 9,
-            "lecture": "CSC108H5 LEC0102"
-        },
-        {
-            "day": 3,
-            "time": 9,
-            "lecture": "CSC108H5 LEC0102"
-        },
-        {
-            "day": 5,
-            "time": 9,
-            "lecture": "CSC108H5 LEC0102"
-        },
+    "PHY137H5": [
         {
             "day": 1,
             "time": 10,
-            "lecture": "CSC108H5 LEC0103"
+            "lecture": "PHY137H5 LEC0101"
         },
         {
             "day": 3,
             "time": 10,
-            "lecture": "CSC108H5 LEC0103"
+            "lecture": "PHY137H5 LEC0101"
         },
         {
             "day": 5,
             "time": 10,
-            "lecture": "CSC108H5 LEC0103"
+            "lecture": "PHY137H5 LEC0101"
+        }
+    ],
+    "PHY241H5": [
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "PHY241H5 LEC0101"
         },
         {
             "day": 1,
             "time": 13,
-            "lecture": "CSC108H5 LEC0106"
-        },
-        {
-            "day": 1,
-            "time": 14,
-            "lecture": "CSC108H5 LEC0106"
-        },
-        {
-            "day": 5,
-            "time": 15,
-            "lecture": "CSC108H5 LEC0106"
-        },
-        {
-            "day": 1,
-            "time": 19,
-            "lecture": "CSC108H5 LEC0107"
-        },
-        {
-            "day": 1,
-            "time": 20,
-            "lecture": "CSC108H5 LEC0107"
-        },
-        {
-            "day": 1,
-            "time": 21,
-            "lecture": "CSC108H5 LEC0107"
+            "lecture": "PHY241H5 LEC0101"
         }
     ],
-    "STA256H5": [
+    "PHY147H5": [
         {
-            "day": 2,
-            "time": 14,
-            "lecture": "STA256H5 LEC0103"
-        },
-        {
-            "day": 4,
-            "time": 15,
-            "lecture": "STA256H5 LEC0103"
-        },
-        {
-            "day": 4,
-            "time": 16,
-            "lecture": "STA256H5 LEC0103"
-        },
-        {
-            "day": 6,
+            "day": 1,
             "time": 10,
-            "lecture": "STA256H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 6,
-            "time": 11,
-            "lecture": "STA256H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 2,
-            "time": 15,
-            "lecture": "STA256H5 LEC0104"
-        },
-        {
-            "day": 2,
-            "time": 16,
-            "lecture": "STA256H5 LEC0104"
-        },
-        {
-            "day": 4,
-            "time": 14,
-            "lecture": "STA256H5 LEC0104"
+            "lecture": "PHY147H5 LEC0101"
         },
         {
             "day": 3,
-            "time": 14,
-            "lecture": "STA256H5 LEC0101"
+            "time": 10,
+            "lecture": "PHY147H5 LEC0101"
         },
         {
+            "day": 5,
+            "time": 10,
+            "lecture": "PHY147H5 LEC0101"
+        }
+    ],
+    "MAT136H5": [
+        {
             "day": 1,
+            "time": 11,
+            "lecture": "MAT136H5 LEC0102"
+        },
+        {
+            "day": 5,
+            "time": 17,
+            "lecture": "MAT136H5 Midterm",
+            "test": true
+        },
+        {
+            "day": 5,
+            "time": 18,
+            "lecture": "MAT136H5 Midterm",
+            "test": true
+        },
+        {
+            "day": 4,
             "time": 15,
-            "lecture": "STA256H5 LEC0101"
+            "lecture": "MAT136H5 LEC0102"
         },
         {
-            "day": 1,
+            "day": 4,
             "time": 16,
-            "lecture": "STA256H5 LEC0101"
+            "lecture": "MAT136H5 LEC0102"
         },
         {
-            "day": 1,
+            "day": 5,
+            "time": 13,
+            "lecture": "MAT136H5 LEC0110"
+        },
+        {
+            "day": 5,
             "time": 14,
-            "lecture": "STA256H5 LEC0102"
+            "lecture": "MAT136H5 LEC0110"
         },
         {
             "day": 3,
             "time": 13,
-            "lecture": "STA256H5 LEC0102"
+            "lecture": "MAT136H5 LEC0110"
+        },
+        {
+            "day": 1,
+            "time": 9,
+            "lecture": "MAT136H5 LEC0101"
         },
         {
             "day": 3,
-            "time": 14,
-            "lecture": "STA256H5 LEC0102"
-        }
-    ],
-    "MAT244H5": [
+            "time": 15,
+            "lecture": "MAT136H5 LEC0101"
+        },
+        {
+            "day": 3,
+            "time": 16,
+            "lecture": "MAT136H5 LEC0101"
+        },
+        {
+            "day": 1,
+            "time": 15,
+            "lecture": "MAT136H5 LEC0103"
+        },
         {
             "day": 4,
-            "time": 14,
-            "lecture": "MAT244H5 LEC0101"
+            "time": 15,
+            "lecture": "MAT136H5 LEC0103"
+        },
+        {
+            "day": 4,
+            "time": 16,
+            "lecture": "MAT136H5 LEC0103"
         },
         {
             "day": 2,
+            "time": 9,
+            "lecture": "MAT136H5 LEC0105"
+        },
+        {
+            "day": 2,
+            "time": 10,
+            "lecture": "MAT136H5 LEC0105"
+        },
+        {
+            "day": 5,
+            "time": 11,
+            "lecture": "MAT136H5 LEC0105"
+        },
+        {
+            "day": 3,
             "time": 15,
-            "lecture": "MAT244H5 LEC0101"
+            "lecture": "MAT136H5 LEC0111"
+        },
+        {
+            "day": 3,
+            "time": 16,
+            "lecture": "MAT136H5 LEC0111"
+        },
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "MAT136H5 LEC0111"
+        },
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "MAT136H5 LEC0108"
+        },
+        {
+            "day": 4,
+            "time": 15,
+            "lecture": "MAT136H5 LEC0108"
+        },
+        {
+            "day": 4,
+            "time": 16,
+            "lecture": "MAT136H5 LEC0108"
+        },
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "MAT136H5 LEC0107"
+        },
+        {
+            "day": 4,
+            "time": 13,
+            "lecture": "MAT136H5 LEC0107"
+        },
+        {
+            "day": 4,
+            "time": 14,
+            "lecture": "MAT136H5 LEC0107"
         },
         {
             "day": 2,
             "time": 16,
-            "lecture": "MAT244H5 LEC0101"
+            "lecture": "MAT136H5 LEC0109"
+        },
+        {
+            "day": 4,
+            "time": 15,
+            "lecture": "MAT136H5 LEC0109"
+        },
+        {
+            "day": 4,
+            "time": 16,
+            "lecture": "MAT136H5 LEC0109"
+        },
+        {
+            "day": 2,
+            "time": 10,
+            "lecture": "MAT136H5 LEC0104"
+        },
+        {
+            "day": 4,
+            "time": 9,
+            "lecture": "MAT136H5 LEC0104"
+        },
+        {
+            "day": 4,
+            "time": 10,
+            "lecture": "MAT136H5 LEC0104"
+        },
+        {
+            "day": 2,
+            "time": 13,
+            "lecture": "MAT136H5 LEC0106"
+        },
+        {
+            "day": 4,
+            "time": 15,
+            "lecture": "MAT136H5 LEC0106"
+        },
+        {
+            "day": 4,
+            "time": 16,
+            "lecture": "MAT136H5 LEC0106"
+        }
+    ],
+    "MAT139H5": [
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "MAT139H5 LEC0101"
+        },
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "MAT139H5 Midterm",
+            "test": true
+        },
+        {
+            "day": 5,
+            "time": 16,
+            "lecture": "MAT139H5 Midterm",
+            "test": true
+        },
+        {
+            "day": 5,
+            "time": 11,
+            "lecture": "MAT139H5 LEC0101"
+        },
+        {
+            "day": 5,
+            "time": 12,
+            "lecture": "MAT139H5 LEC0101"
         }
     ],
     "MAT223H5": [
         {
+            "day": 2,
+            "time": 13,
+            "lecture": "MAT223H5 LEC0102"
+        },
+        {
+            "day": 4,
+            "time": 13,
+            "lecture": "MAT223H5 LEC0102"
+        },
+        {
+            "day": 4,
+            "time": 14,
+            "lecture": "MAT223H5 LEC0102"
+        },
+        {
             "day": 4,
             "time": 18,
             "lecture": "MAT223H5 Midterm",
@@ -223,718 +282,66 @@
             "test": true
         },
         {
-            "day": 3,
+            "day": 2,
             "time": 9,
-            "lecture": "MAT223H5 LEC0101"
+            "lecture": "MAT223H5 LEC0103"
         },
         {
-            "day": 3,
+            "day": 4,
+            "time": 9,
+            "lecture": "MAT223H5 LEC0103"
+        },
+        {
+            "day": 4,
             "time": 10,
-            "lecture": "MAT223H5 LEC0101"
+            "lecture": "MAT223H5 LEC0103"
         },
         {
-            "day": 5,
+            "day": 2,
             "time": 11,
-            "lecture": "MAT223H5 LEC0101"
+            "lecture": "MAT223H5 LEC0105"
         },
         {
-            "day": 1,
-            "time": 13,
-            "lecture": "MAT223H5 LEC0102"
-        },
-        {
-            "day": 3,
+            "day": 5,
             "time": 9,
-            "lecture": "MAT223H5 LEC0102"
+            "lecture": "MAT223H5 LEC0105"
         },
         {
-            "day": 3,
+            "day": 5,
             "time": 10,
-            "lecture": "MAT223H5 LEC0102"
+            "lecture": "MAT223H5 LEC0105"
         },
         {
-            "day": 3,
+            "day": 4,
             "time": 13,
-            "lecture": "MAT223H5 LEC0105"
+            "lecture": "MAT223H5 LEC0104"
         },
         {
-            "day": 5,
-            "time": 12,
-            "lecture": "MAT223H5 LEC0105"
-        },
-        {
-            "day": 5,
-            "time": 13,
-            "lecture": "MAT223H5 LEC0105"
+            "day": 4,
+            "time": 14,
+            "lecture": "MAT223H5 LEC0104"
         },
         {
             "day": 2,
             "time": 9,
             "lecture": "MAT223H5 LEC0104"
-        },
-        {
-            "day": 4,
-            "time": 9,
-            "lecture": "MAT223H5 LEC0104"
-        },
-        {
-            "day": 4,
-            "time": 10,
-            "lecture": "MAT223H5 LEC0104"
         }
     ],
-    "STA258H5": [
-        {
-            "day": 6,
-            "time": 10,
-            "lecture": "STA258H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 6,
-            "time": 11,
-            "lecture": "STA258H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 4,
-            "time": 14,
-            "lecture": "STA258H5 LEC0101"
-        },
-        {
-            "day": 2,
-            "time": 13,
-            "lecture": "STA258H5 LEC0101"
-        },
-        {
-            "day": 2,
-            "time": 14,
-            "lecture": "STA258H5 LEC0101"
-        },
-        {
-            "day": 2,
-            "time": 15,
-            "lecture": "STA258H5 LEC0102"
-        },
-        {
-            "day": 4,
-            "time": 15,
-            "lecture": "STA258H5 LEC0102"
-        },
-        {
-            "day": 4,
-            "time": 16,
-            "lecture": "STA258H5 LEC0102"
-        }
-    ],
-    "MAT224H5": [
-        {
-            "day": 1,
-            "time": 15,
-            "lecture": "MAT224H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 13,
-            "lecture": "MAT224H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 14,
-            "lecture": "MAT224H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 13,
-            "lecture": "MAT224H5 LEC0102"
-        },
-        {
-            "day": 3,
-            "time": 14,
-            "lecture": "MAT224H5 LEC0102"
-        },
-        {
-            "day": 1,
-            "time": 12,
-            "lecture": "MAT224H5 LEC0102"
-        }
-    ],
-    "MAT202H5": [
-        {
-            "day": 3,
-            "time": 17,
-            "lecture": "MAT202H5 LEC0101"
-        },
-        {
-            "day": 5,
-            "time": 13,
-            "lecture": "MAT202H5 LEC0101"
-        },
-        {
-            "day": 5,
-            "time": 14,
-            "lecture": "MAT202H5 LEC0101"
-        }
-    ],
-    "MAT236H5": [
-        {
-            "day": 4,
-            "time": 13,
-            "lecture": "MAT236H5 LEC0101"
-        },
-        {
-            "day": 4,
-            "time": 14,
-            "lecture": "MAT236H5 LEC0101"
-        },
-        {
-            "day": 2,
-            "time": 13,
-            "lecture": "MAT236H5 LEC0101"
-        }
-    ],
-    "CSC207H5": [
-        {
-            "day": 2,
-            "time": 17,
-            "lecture": "CSC207H5 LEC0104"
-        },
-        {
-            "day": 2,
-            "time": 18,
-            "lecture": "CSC207H5 LEC0104"
-        },
-        {
-            "day": 1,
-            "time": 17,
-            "lecture": "CSC207H5 LEC0101"
-        },
-        {
-            "day": 1,
-            "time": 18,
-            "lecture": "CSC207H5 LEC0101"
-        },
-        {
-            "day": 4,
-            "time": 11,
-            "lecture": "CSC207H5 LEC0103"
-        },
-        {
-            "day": 4,
-            "time": 12,
-            "lecture": "CSC207H5 LEC0103"
-        },
-        {
-            "day": 2,
-            "time": 13,
-            "lecture": "CSC207H5 LEC0102"
-        },
-        {
-            "day": 2,
-            "time": 14,
-            "lecture": "CSC207H5 LEC0102"
-        }
-    ],
-    "MAT137H5": [
-        {
-            "day": 4,
-            "time": 11,
-            "lecture": "MAT137H5 LEC0102"
-        },
-        {
-            "day": 4,
-            "time": 12,
-            "lecture": "MAT137H5 LEC0102"
-        },
-        {
-            "day": 2,
-            "time": 10,
-            "lecture": "MAT137H5 LEC0102"
-        },
-        {
-            "day": 5,
-            "time": 15,
-            "lecture": "MAT137H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 5,
-            "time": 16,
-            "lecture": "MAT137H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 2,
-            "time": 13,
-            "lecture": "MAT137H5 LEC0101"
-        },
-        {
-            "day": 2,
-            "time": 14,
-            "lecture": "MAT137H5 LEC0101"
-        },
-        {
-            "day": 4,
-            "time": 16,
-            "lecture": "MAT137H5 LEC0101"
-        }
-    ],
-    "CSC236H5": [
-        {
-            "day": 5,
-            "time": 9,
-            "lecture": "CSC236H5 LEC0103"
-        },
-        {
-            "day": 5,
-            "time": 10,
-            "lecture": "CSC236H5 LEC0103"
-        },
-        {
-            "day": 5,
-            "time": 17,
-            "lecture": "CSC236H5 LEC0104"
-        },
-        {
-            "day": 5,
-            "time": 18,
-            "lecture": "CSC236H5 LEC0104"
-        },
-        {
-            "day": 3,
-            "time": 15,
-            "lecture": "CSC236H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 16,
-            "lecture": "CSC236H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 17,
-            "lecture": "CSC236H5 LEC0102"
-        },
-        {
-            "day": 3,
-            "time": 18,
-            "lecture": "CSC236H5 LEC0102"
-        }
-    ],
-    "CSC258H5": [
-        {
-            "day": 2,
-            "time": 9,
-            "lecture": "CSC258H5 LEC0101"
-        },
-        {
-            "day": 2,
-            "time": 10,
-            "lecture": "CSC258H5 LEC0101"
-        },
-        {
-            "day": 1,
-            "time": 19,
-            "lecture": "CSC258H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 1,
-            "time": 20,
-            "lecture": "CSC258H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 2,
-            "time": 11,
-            "lecture": "CSC258H5 LEC0102"
-        },
-        {
-            "day": 2,
-            "time": 12,
-            "lecture": "CSC258H5 LEC0102"
-        },
-        {
-            "day": 3,
-            "time": 13,
-            "lecture": "CSC258H5 LEC0103"
-        },
-        {
-            "day": 3,
-            "time": 14,
-            "lecture": "CSC258H5 LEC0103"
-        }
-    ],
-    "MAT232H5": [
-        {
-            "day": 1,
-            "time": 14,
-            "lecture": "MAT232H5 LEC0102"
-        },
-        {
-            "day": 4,
-            "time": 18,
-            "lecture": "MAT232H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 4,
-            "time": 19,
-            "lecture": "MAT232H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 5,
-            "time": 15,
-            "lecture": "MAT232H5 LEC0102"
-        },
-        {
-            "day": 5,
-            "time": 16,
-            "lecture": "MAT232H5 LEC0102"
-        },
-        {
-            "day": 1,
-            "time": 10,
-            "lecture": "MAT232H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 12,
-            "lecture": "MAT232H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 13,
-            "lecture": "MAT232H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 9,
-            "lecture": "MAT232H5 LEC0104"
-        },
-        {
-            "day": 5,
-            "time": 11,
-            "lecture": "MAT232H5 LEC0104"
-        },
-        {
-            "day": 5,
-            "time": 12,
-            "lecture": "MAT232H5 LEC0104"
-        },
-        {
-            "day": 2,
-            "time": 14,
-            "lecture": "MAT232H5 LEC0103"
-        },
-        {
-            "day": 4,
-            "time": 13,
-            "lecture": "MAT232H5 LEC0103"
-        },
-        {
-            "day": 4,
-            "time": 14,
-            "lecture": "MAT232H5 LEC0103"
-        }
-    ],
-    "MAT135H5": [
-        {
-            "day": 2,
-            "time": 13,
-            "lecture": "MAT135H5 LEC0111"
-        },
-        {
-            "day": 2,
-            "time": 14,
-            "lecture": "MAT135H5 LEC0111"
-        },
-        {
-            "day": 4,
-            "time": 15,
-            "lecture": "MAT135H5 LEC0111"
-        },
-        {
-            "day": 5,
-            "time": 17,
-            "lecture": "MAT135H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 5,
-            "time": 18,
-            "lecture": "MAT135H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 3,
-            "time": 11,
-            "lecture": "MAT135H5 LEC0101"
-        },
-        {
-            "day": 5,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0101"
-        },
-        {
-            "day": 5,
-            "time": 10,
-            "lecture": "MAT135H5 LEC0101"
-        },
-        {
-            "day": 5,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0102"
-        },
-        {
-            "day": 5,
-            "time": 10,
-            "lecture": "MAT135H5 LEC0102"
-        },
-        {
-            "day": 3,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0102"
-        },
-        {
-            "day": 2,
-            "time": 17,
-            "lecture": "MAT135H5 LEC0107"
-        },
-        {
-            "day": 2,
-            "time": 18,
-            "lecture": "MAT135H5 LEC0107"
-        },
-        {
-            "day": 4,
-            "time": 17,
-            "lecture": "MAT135H5 LEC0107"
-        },
-        {
-            "day": 2,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0108"
-        },
-        {
-            "day": 2,
-            "time": 10,
-            "lecture": "MAT135H5 LEC0108"
-        },
-        {
-            "day": 4,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0108"
-        },
-        {
-            "day": 5,
-            "time": 13,
-            "lecture": "MAT135H5 LEC0105"
-        },
-        {
-            "day": 4,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0105"
-        },
-        {
-            "day": 4,
-            "time": 10,
-            "lecture": "MAT135H5 LEC0105"
-        },
-        {
-            "day": 1,
-            "time": 11,
-            "lecture": "MAT135H5 LEC0103"
-        },
-        {
-            "day": 5,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0103"
-        },
-        {
-            "day": 5,
-            "time": 10,
-            "lecture": "MAT135H5 LEC0103"
-        },
-        {
-            "day": 3,
-            "time": 14,
-            "lecture": "MAT135H5 LEC0113"
-        },
-        {
-            "day": 5,
-            "time": 11,
-            "lecture": "MAT135H5 LEC0113"
-        },
-        {
-            "day": 5,
-            "time": 12,
-            "lecture": "MAT135H5 LEC0113"
-        },
-        {
-            "day": 2,
-            "time": 15,
-            "lecture": "MAT135H5 LEC0112"
-        },
-        {
-            "day": 2,
-            "time": 16,
-            "lecture": "MAT135H5 LEC0112"
-        },
-        {
-            "day": 5,
-            "time": 13,
-            "lecture": "MAT135H5 LEC0112"
-        },
-        {
-            "day": 2,
-            "time": 12,
-            "lecture": "MAT135H5 LEC0104"
-        },
-        {
-            "day": 4,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0104"
-        },
-        {
-            "day": 4,
-            "time": 10,
-            "lecture": "MAT135H5 LEC0104"
-        },
-        {
-            "day": 2,
-            "time": 11,
-            "lecture": "MAT135H5 LEC0109"
-        },
-        {
-            "day": 2,
-            "time": 12,
-            "lecture": "MAT135H5 LEC0109"
-        },
-        {
-            "day": 4,
-            "time": 9,
-            "lecture": "MAT135H5 LEC0109"
-        }
-    ],
-    "MAT102H5": [
-        {
-            "day": 2,
-            "time": 13,
-            "lecture": "MAT102H5 LEC0105"
-        },
-        {
-            "day": 2,
-            "time": 14,
-            "lecture": "MAT102H5 LEC0105"
-        },
-        {
-            "day": 2,
-            "time": 19,
-            "lecture": "MAT102H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 2,
-            "time": 20,
-            "lecture": "MAT102H5 Midterm",
-            "test": true
-        },
-        {
-            "day": 4,
-            "time": 13,
-            "lecture": "MAT102H5 LEC0105"
-        },
-        {
-            "day": 3,
-            "time": 16,
-            "lecture": "MAT102H5 LEC0108"
-        },
-        {
-            "day": 5,
-            "time": 9,
-            "lecture": "MAT102H5 LEC0108"
-        },
-        {
-            "day": 5,
-            "time": 10,
-            "lecture": "MAT102H5 LEC0108"
-        },
-        {
-            "day": 2,
-            "time": 15,
-            "lecture": "MAT102H5 LEC0106"
-        },
-        {
-            "day": 2,
-            "time": 16,
-            "lecture": "MAT102H5 LEC0106"
-        },
-        {
-            "day": 4,
-            "time": 12,
-            "lecture": "MAT102H5 LEC0106"
-        },
-        {
-            "day": 4,
-            "time": 11,
-            "lecture": "MAT102H5 LEC0109"
-        },
-        {
-            "day": 4,
-            "time": 12,
-            "lecture": "MAT102H5 LEC0109"
-        },
-        {
-            "day": 2,
-            "time": 13,
-            "lecture": "MAT102H5 LEC0109"
-        },
+    "JCP221H5": [
         {
             "day": 1,
             "time": 9,
-            "lecture": "MAT102H5 LEC0101"
+            "lecture": "JCP221H5 LEC0101"
         },
         {
             "day": 3,
             "time": 9,
-            "lecture": "MAT102H5 LEC0101"
-        },
-        {
-            "day": 3,
-            "time": 10,
-            "lecture": "MAT102H5 LEC0101"
-        },
-        {
-            "day": 1,
-            "time": 11,
-            "lecture": "MAT102H5 LEC0102"
-        },
-        {
-            "day": 3,
-            "time": 16,
-            "lecture": "MAT102H5 LEC0102"
-        },
-        {
-            "day": 3,
-            "time": 17,
-            "lecture": "MAT102H5 LEC0102"
+            "lecture": "JCP221H5 LEC0101"
         },
         {
             "day": 5,
-            "time": 11,
-            "lecture": "MAT102H5 LEC0107"
-        },
-        {
-            "day": 5,
-            "time": 12,
-            "lecture": "MAT102H5 LEC0107"
-        },
-        {
-            "day": 3,
-            "time": 11,
-            "lecture": "MAT102H5 LEC0107"
+            "time": 9,
+            "lecture": "JCP221H5 LEC0101"
         }
     ]
 }
