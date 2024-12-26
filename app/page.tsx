@@ -128,6 +128,7 @@ function SelectCourses({ setSelectedCourses }: SelectCoursesProps) {
   };
 
   const handleYearClicked = (e: React.MouseEvent<HTMLInputElement>) => {
+    console.log(e.target);
     if ((e.target as HTMLInputElement).checked) {
       const year = (e.target as HTMLInputElement).value as Year;
       const courses = YEAR_COURSES[year] as typeof COURSES[number][];
@@ -168,7 +169,7 @@ function SelectCourses({ setSelectedCourses }: SelectCoursesProps) {
       {(YEARS as Year[]).map(year => (
         <div key={year}>
           <div className="p-2 hover:bg-gray-200">
-            <label className="text-lg" htmlFor={"first"}>
+            <label className="text-lg" htmlFor={year}>
               <input className="mx-2" type="checkbox" id={year} name={year} value={year} onClick={handleYearClicked} />
               {capitalize(year)} Year
             </label>
