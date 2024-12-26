@@ -14,6 +14,141 @@
             "day": 5,
             "time": 10,
             "lecture": "PHY137H5 LEC0101"
+        },
+        {
+            "day": 5,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0107"
+        },
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0107"
+        },
+        {
+            "day": 5,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0107"
+        },
+        {
+            "day": 5,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0109"
+        },
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0109"
+        },
+        {
+            "day": 5,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0109"
+        },
+        {
+            "day": 1,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0103"
+        },
+        {
+            "day": 1,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0103"
+        },
+        {
+            "day": 1,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0103"
+        },
+        {
+            "day": 3,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0105"
+        },
+        {
+            "day": 3,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0105"
+        },
+        {
+            "day": 3,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0105"
+        },
+        {
+            "day": 5,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0108"
+        },
+        {
+            "day": 5,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0108"
+        },
+        {
+            "day": 5,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0108"
+        },
+        {
+            "day": 1,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0102"
+        },
+        {
+            "day": 1,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0102"
+        },
+        {
+            "day": 1,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0102"
+        },
+        {
+            "day": 1,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0104"
+        },
+        {
+            "day": 1,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0104"
+        },
+        {
+            "day": 1,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0104"
+        },
+        {
+            "day": 3,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0106"
+        },
+        {
+            "day": 3,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0106"
+        },
+        {
+            "day": 3,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0106"
+        },
+        {
+            "day": 1,
+            "time": 14,
+            "lecture": "PHY137H5 PRA0101"
+        },
+        {
+            "day": 1,
+            "time": 15,
+            "lecture": "PHY137H5 PRA0101"
+        },
+        {
+            "day": 1,
+            "time": 16,
+            "lecture": "PHY137H5 PRA0101"
         }
     ],
     "PHY241H5": [
@@ -26,6 +161,36 @@
             "day": 1,
             "time": 13,
             "lecture": "PHY241H5 LEC0101"
+        },
+        {
+            "day": 1,
+            "time": 14,
+            "lecture": "PHY241H5 PRA0101"
+        },
+        {
+            "day": 1,
+            "time": 15,
+            "lecture": "PHY241H5 PRA0101"
+        },
+        {
+            "day": 1,
+            "time": 16,
+            "lecture": "PHY241H5 PRA0101"
+        },
+        {
+            "day": 1,
+            "time": 14,
+            "lecture": "PHY241H5 PRA0102"
+        },
+        {
+            "day": 1,
+            "time": 15,
+            "lecture": "PHY241H5 PRA0102"
+        },
+        {
+            "day": 1,
+            "time": 16,
+            "lecture": "PHY241H5 PRA0102"
         }
     ],
     "PHY147H5": [
@@ -43,6 +208,81 @@
             "day": 5,
             "time": 10,
             "lecture": "PHY147H5 LEC0101"
+        },
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "PHY147H5 PRA0102"
+        },
+        {
+            "day": 2,
+            "time": 15,
+            "lecture": "PHY147H5 PRA0102"
+        },
+        {
+            "day": 2,
+            "time": 16,
+            "lecture": "PHY147H5 PRA0102"
+        },
+        {
+            "day": 4,
+            "time": 14,
+            "lecture": "PHY147H5 PRA0104"
+        },
+        {
+            "day": 4,
+            "time": 15,
+            "lecture": "PHY147H5 PRA0104"
+        },
+        {
+            "day": 4,
+            "time": 16,
+            "lecture": "PHY147H5 PRA0104"
+        },
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "PHY147H5 PRA0101"
+        },
+        {
+            "day": 2,
+            "time": 15,
+            "lecture": "PHY147H5 PRA0101"
+        },
+        {
+            "day": 2,
+            "time": 16,
+            "lecture": "PHY147H5 PRA0101"
+        },
+        {
+            "day": 2,
+            "time": 14,
+            "lecture": "PHY147H5 PRA0103"
+        },
+        {
+            "day": 2,
+            "time": 15,
+            "lecture": "PHY147H5 PRA0103"
+        },
+        {
+            "day": 2,
+            "time": 16,
+            "lecture": "PHY147H5 PRA0103"
+        },
+        {
+            "day": 4,
+            "time": 14,
+            "lecture": "PHY147H5 PRA0105"
+        },
+        {
+            "day": 4,
+            "time": 15,
+            "lecture": "PHY147H5 PRA0105"
+        },
+        {
+            "day": 4,
+            "time": 16,
+            "lecture": "PHY147H5 PRA0105"
         }
     ],
     "MAT236H5": [

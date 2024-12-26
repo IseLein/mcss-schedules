@@ -15,6 +15,9 @@ for filename in os.listdir('.'):
             course_code = course_data['code']
             sections = list(course_data['sections']['sections'])
             lecture_sections = [section for section in sections if section['type'] == 'Lecture' and section['meetingTimes'] is not None]
+            if (course_code[:3] == 'PHY'):
+                practical_sections = [section for section in sections if section['type'] == 'Practical' and section['meetingTimes'] is not None]
+                lecture_sections += practical_sections
 
             test_time = test_times.get(course_code)
             has_test = test_time is not None
